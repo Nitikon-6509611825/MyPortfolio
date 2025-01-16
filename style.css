@@ -68,6 +68,7 @@ a {
     color:#7cf03d
 }
 
+/* Home */
 .home {
     display: flex;
     align-items: center;
@@ -164,7 +165,7 @@ a {
     }
 }
 
-
+/* About */
 
 .about {
     display: flex;
@@ -309,7 +310,6 @@ a {
 }
 
 
-
 .project h1 {
     
     font-size: 3em;
@@ -352,7 +352,7 @@ a {
     color: #ffffff;
 }
 
-
+/* Contact */
 .contact {
     display: flex;
     align-items: center;
@@ -397,8 +397,6 @@ a {
     font-size: 1.25rem;
     color: #ffffff;
 }
-
-
 
 
 .contact-info {
